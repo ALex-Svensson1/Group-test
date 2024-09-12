@@ -26,7 +26,7 @@ No
 
 **4.** Since none of the 7 Classes actually have any baseline skills, you have a lot of freedom when it comes to your skill choice. In this game, Skills are itemised in the form of Active Skill Gems. Supports Gems then further modify or boost an Active Skill Gem by buffing its damage or altering its behavior. These Gems need to be inserted into appropriate coloured and linked sockets in your items
 
-**5.** what does the diffrent collores represent? : red = strength, green = dexterity and blue = intelligence.
+**5.** what does the diffrent collores represent? : <span style="color:red">red</span> = strength, <span style="color:green">green</span> = dexterity and <span style="color:blue">blue</span> = intelligence.
 
 **6.** **links and sockets :** Sockets in items can be linked or unlinked, indicated by a small line connecting them. Generally you want to get as many links as possible especially for your main skill (up to the maximum of 6 in Body Armours/Two-Handed Weapons)
 
