@@ -17,12 +17,8 @@
 
 For each level up you also earn one passive point to spend on the Passive Skill Tree. There are ways to respec these points through <img src="OrbOfRegret.png" width =19 height=16>***Orb of Regret*** but you won't have access to enough of them early in the game.
 
-<<<<<<< HEAD
 For the best gameplay experience, make sure that you are following a build guide. It takes away the planning needed to make a build work on your own and allows you to focus on learning more of the game's core mechanics.
 
 
 
 # Campagin 
-=======
-For the best gameplay experience, make sure that you are following a build guide. It takes away the planning needed to make a build work on your own and allows you to focus on learning more of the game's core mechanics.
->>>>>>> main
