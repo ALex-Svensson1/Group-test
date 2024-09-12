@@ -5,7 +5,7 @@
 
 **2.** Find a build on youtube or on maxroll (note! when searching for a build use the right lueage for example: settlers of kalguur).
 
-**3.** When starting out it is recommended to use a loot filter beacause it could get overwelming with the amount of loot that drop later on the game u could find some filters in the poe website (NeverSink-3Strict-softcore).
+**3.** When starting out it is recommended to use a loot filter beacause it could get overwelming with the amount of loot that drop later on the game u could find some filters in the poe website. Here is a recommended filter: [(NeverSink-3Strict-softcore)](https://www.pathofexile.com/item-filter/5XMehq).
 
 **4.** Since none of the 7 Classes actually have any baseline skills, you have a lot of freedom when it comes to your skill choice. In this game, Skills are itemised in the form of Active Skill Gems. Supports Gems then further modify or boost an Active Skill Gem by buffing its damage or altering its behavior. These Gems need to be inserted into appropriate coloured and linked sockets in your items
 
